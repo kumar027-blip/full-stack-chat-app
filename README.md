@@ -37,10 +37,4 @@ A modern, real-time chat application built with a full stack approach, supportin
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Acknowledgements
 
-- [React](https://reactjs.org/)
-- [Express](https://expressjs.com/)
-- [Socket.io](https://socket.io/)
-- [MongoDB](https://www.mongodb.com/)
-- [TailwindCSS](https://tailwindcss.com/) or [Material-UI](https://mui.com/)
