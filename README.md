@@ -10,16 +10,15 @@ A modern, real-time chat application built with a full stack approach, supportin
 - **User Presence**: See who is online and active in chats.
 - **Responsive Design**: Works seamlessly on desktops and mobile devices.
 - **Message History**: View previous messages in each room.
-- **Modern UI**: Clean and intuitive interface.
 
 ## Tech Stack
 
-- **Frontend**: React.js, Redux (if used), TailwindCSS or Material-UI
+- **Frontend**: React.js, TailwindCSS
 - **Backend**: Node.js, Express.js
 - **WebSockets**: Socket.io for real-time communication
 - **Database**: MongoDB (with Mongoose)
 - **Authentication**: JWT (JSON Web Tokens), bcrypt for password hashing
-- **Deployment**: Docker, Heroku or Vercel (specify if deployed)
+  
 
 
 
